@@ -12,6 +12,12 @@
 
 <br><br>
 
+## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
+
+<img src="https://skillicons.dev/icons?i=nodejs,javascript" alt="Node.js and JavaScript">
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=%3E+Initializing...;%3E+Writing+code...;%3E+Learning+every+day...;%3E+Building+something+cool...;%3E+Hello%2C+World_">
 
 <br><br>
