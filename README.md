@@ -1,137 +1,122 @@
 <div align="center">
 
-<a href="https://github.com/fodnz">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=FODNZ&fontSize=76&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Node.js%20%7C%20JavaScript%20%7C%20Open%20Source&descAlignY=64&descSize=18" width="100%" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&text=FODNZ&fontSize=68&fontAlignY=42&animation=fadeIn&fontColor=ffffff&color=0f172a" width="100%" alt="FODNZ">
 
 <h1>Hi, I'm fodnz</h1>
 
 <p>
-  <b>Node.js developer from Indonesia</b><br>
-  Building lightweight tools, bots, and open-source projects with JavaScript.
+  <b>Node.js Developer · JavaScript · Open Source</b><br>
+  Building lightweight tools, bots, and developer-focused projects.
 </p>
 
 <p>
   <a href="https://github.com/fodnz">
-    <img src="https://komarev.com/ghpvc/?username=fodnz&label=Profile%20Views&color=0d1117&style=flat" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=fodnz&label=Views&style=flat-square&color=334155" alt="Profile views">
   </a>
   <a href="https://github.com/fodnz?tab=followers">
-    <img src="https://img.shields.io/github/followers/fodnz?label=Followers&style=flat&color=0d1117" alt="Followers">
+    <img src="https://img.shields.io/github/followers/fodnz?label=Followers&style=flat-square&color=0ea5e9" alt="Followers">
   </a>
   <a href="https://github.com/fodnz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/fodnz?label=Stars&style=flat&color=0d1117" alt="GitHub stars">
+    <img src="https://img.shields.io/badge/Public%20Repos-4-8b5cf6?style=flat-square&logo=github" alt="Public repositories">
   </a>
 </p>
 
-<a href="https://github.com/fodnz/fodnz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Building+with+Node.js...;%3E+Writing+JavaScript...;%3E+Exploring+WhatsApp+automation...;%3E+Creating+open-source+tools...;%3E+Code.+Learn.+Build._" alt="Typing animation">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=650&height=48&lines=%3E+Building+with+Node.js...;%3E+Writing+modern+JavaScript...;%3E+Exploring+WhatsApp+automation...;%3E+Creating+open-source+tools...;%3E+Code.+Learn.+Build._" alt="Typing animation">
 
 </div>
 
 <br>
 
+> **Focus:** practical software, clean architecture, automation, and the Node.js ecosystem.
+
 ## About
 
-I'm focused on the Node.js ecosystem and JavaScript development, with a particular interest in automation, messaging systems, lightweight architecture, and developer tooling.
+I'm a developer from Indonesia focused on **Node.js** and **JavaScript (ESM)**.
 
-My current projects include **ZapoX**, a lightweight WhatsApp bot built around [zapo-js](https://github.com/vinikjkkj/zapo), and contributions around the JavaScript/Node.js ecosystem.
+My projects mainly explore automation, messaging systems, lightweight backends, modular architecture, and developer tooling.
 
 <details>
-<summary><b>What I work with</b></summary>
+<summary><b>Current focus</b></summary>
 
 <br>
 
-- **Runtime:** Node.js
-- **Language:** JavaScript (ESM)
-- **Messaging:** WhatsApp automation
-- **Database:** SQLite
-- **Architecture:** Lightweight, modular, event-driven systems
-- **Tools:** Git, npm, Linux
+**Node.js**
+Building backend services, automation tools, bots, and event-driven applications.
+
+**JavaScript**
+Writing modern ESM-based applications with async workflows and modular project structures.
+
+**Open Source**
+Creating and maintaining small projects that are easy to understand, extend, and run.
 
 </details>
 
 ## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,javascript,git,github,npm,linux,sqlite&perline=7" alt="Tech stack">
-</p>
+<div align="left">
 
-## GitHub Stats
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,git,github,npm,linux,sqlite&perline=7" alt="Node.js, JavaScript, Git, GitHub, npm, Linux and SQLite">
 
-<p align="center">
-  <a href="https://github.com/fodnz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=fodnz&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github" alt="fodnz GitHub stats">
-  </a>
-  <a href="https://github.com/fodnz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fodnz&layout=compact&langs_count=8&hide_border=true&theme=github_dark" alt="Top languages">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fodnz">
-    <img src="https://streak-stats.demolab.com/?user=fodnz&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
-  </a>
-</p>
-
-## Activity
-
-<p align="center">
-  <a href="https://github.com/fodnz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fodnz&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub activity graph" width="100%">
-  </a>
-</p>
+</div>
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/fodnz/ZapoX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fodnz&repo=ZapoX&theme=github_dark&hide_border=true" alt="ZapoX repository">
-  </a>
-  <a href="https://github.com/fodnz/zapo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fodnz&repo=zapo&theme=github_dark&hide_border=true" alt="zapo repository">
-  </a>
-</p>
+### ZapoX
+Lightweight and extensible WhatsApp bot built around [zapo-js](https://github.com/vinikjkkj/zapo).
 
-## Focus
+<a href="https://github.com/fodnz/ZapoX">
+  <img src="https://img.shields.io/github/stars/fodnz/ZapoX?style=flat-square&label=Stars&color=f59e0b" alt="ZapoX stars">
+  <img src="https://img.shields.io/github/languages/top/fodnz/ZapoX?style=flat-square&label=Language&color=22c55e" alt="ZapoX language">
+  <img src="https://img.shields.io/github/license/fodnz/ZapoX?style=flat-square&label=License&color=8b5cf6" alt="ZapoX license">
+</a>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br><br>
 
-### Node.js
-Building backend services, automation tools, CLI utilities, and event-driven applications with Node.js.
+### zapo
+High-performance TypeScript library for the WhatsApp Web protocol.
 
-</td>
-<td width="50%" valign="top">
+<a href="https://github.com/fodnz/zapo">
+  <img src="https://img.shields.io/github/stars/fodnz/zapo?style=flat-square&label=Stars&color=f59e0b" alt="zapo stars">
+  <img src="https://img.shields.io/github/languages/top/fodnz/zapo?style=flat-square&label=Language&color=22c55e" alt="zapo language">
+</a>
 
-### JavaScript
-Writing modern JavaScript with ESM, modular architecture, async workflows, and maintainable project structures.
+## GitHub
 
-</td>
-</tr>
-</table>
+<div align="left">
 
-## Find Me
+<a href="https://github.com/fodnz?tab=repositories">
+  <img src="https://img.shields.io/github/repos/fodnz?style=flat-square&label=Repositories&color=334155" alt="Repositories">
+</a>
+<a href="https://github.com/fodnz?tab=followers">
+  <img src="https://img.shields.io/github/followers/fodnz?style=flat-square&label=Followers&color=0ea5e9" alt="Followers">
+</a>
+<a href="https://github.com/fodnz?tab=stars">
+  <img src="https://img.shields.io/github/stars/fodnz?style=flat-square&label=Stars&color=f59e0b" alt="Stars">
+</a>
+<a href="https://github.com/fodnz">
+  <img src="https://img.shields.io/github/last-commit/fodnz/fodnz?style=flat-square&label=Profile%20updated&color=8b5cf6" alt="Last profile commit">
+</a>
+
+</div>
+
+## Connect
 
 <p>
   <a href="https://github.com/fodnz">
-    <img src="https://img.shields.io/badge/GitHub-fodnz-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-fodnz-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=30363d" width="70%">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=334155" width="70%">
 
 <br><br>
 
-<sub>Code • Learn • Build</sub>
+<sub>Node.js · JavaScript · Open Source</sub>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&color=0f172a" width="100%" alt="Footer">
 
 </div>
