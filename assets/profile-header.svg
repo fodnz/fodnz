@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="FODNZ profile header">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Profil FODNZ">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070b14"/>
@@ -22,21 +22,17 @@
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94a3b8" stroke-opacity="0.07"/>
     </pattern>
   </defs>
-
   <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
   <rect width="1200" height="360" rx="28" fill="url(#orb1)"/>
   <rect width="1200" height="360" rx="28" fill="url(#orb2)"/>
-
   <circle cx="1020" cy="65" r="3" fill="#67e8f9"/>
   <circle cx="1070" cy="105" r="2" fill="#a78bfa"/>
   <circle cx="930" cy="125" r="2" fill="#38bdf8"/>
   <circle cx="1110" cy="205" r="2" fill="#c4b5fd"/>
-
   <path d="M70 285 C260 210, 390 330, 560 250 S910 165, 1130 235" fill="none" stroke="url(#glow)" stroke-width="2" opacity="0.75"/>
   <path d="M80 303 C290 230, 430 340, 610 265 S920 190, 1120 250" fill="none" stroke="#ffffff" stroke-opacity="0.07"/>
-
-  <text x="78" y="112" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="3">/ dev / profile</text>
+  <text x="78" y="112" fill="#67e8f9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="18" letter-spacing="3">/ profil / pengembang</text>
   <text x="72" y="194" fill="#f8fafc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="78" font-weight="800" letter-spacing="-2">FODNZ</text>
   <text x="78" y="232" fill="#cbd5e1" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22">Node.js · JavaScript · Open Source</text>
   <rect x="78" y="267" width="220" height="4" rx="2" fill="url(#glow)"/>
